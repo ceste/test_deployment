@@ -2,7 +2,8 @@ import requests
 import json
 
 # local url
-url = 'http://127.0.0.1:5000'
+# url = 'http://127.0.0.1:5000'
+url = 'https://cst-testing.herokuapp.com/'
 
 # test data
 data = {  'Pclass': 3
